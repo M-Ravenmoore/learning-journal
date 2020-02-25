@@ -2,9 +2,9 @@
 markdown readme
 
 ## Tabled of contents
-1 using git
-1 Markdown cheat sheet
-1 Other stuff
+1. using git
+1. Markdown cheat sheet
+1. Other stuff
 
 ### Git Notes
 create new repl for each project:

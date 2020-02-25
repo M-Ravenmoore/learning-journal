@@ -15,6 +15,6 @@ create new repl for each project:
 
 Markdown code | What it does
 --------------|-------------
-```# | this makes headers
+`<#>` | this makes headers
 
 

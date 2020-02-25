@@ -6,6 +6,7 @@ markdown readme
 1. using git
 1. Markdown cheat sheet
 1. Other stuff
+1. About Me
 
 ## Notes
 
@@ -32,3 +33,5 @@ Markdown code | What it does
 `<#>` | this makes headers
 
 
+#### About me
+my Git link: https://github.com/M-Ravenmoore

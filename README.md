@@ -14,7 +14,7 @@ markdown readme
 The mental ability to continue to learn and grow throught diversity.
 things i personaly do to mantain this mindset are:
 - Challenge my self daily.
-- Set realistic Goal for growth.
++ Set realistic Goal for growth.
 - **ASK FOR HELP** *don't let myself stay stuck!!*
 
 ### Git Notes

@@ -1,7 +1,7 @@
 # learning-journal
 markdown readme
 
-## Tabled of contents
+## Table of contents
 1. using git
 1. Markdown cheat sheet
 1. Other stuff

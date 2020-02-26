@@ -1,4 +1,4 @@
-## day 2 class notes
+## Essencential Terminal notes
 
 - `pwd` (print working directory) : this prints the directory path you are accessing
 - `ls` : this lists the folders and files in the current directory

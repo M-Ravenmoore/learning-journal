@@ -2,11 +2,17 @@
 This is Muninns Learning journal.
 
 ## Table of contents
-1. [Home](README.md)
-1. [Day one](markdown.md)
-1. [Computer Setup](computer-setup.md)
-1. [git notes](git-github.md)
+- [Home](README.md)
+- [Markdown](markdown.md)
+- [Computer Setup](computer-setup.md)
+- [git notes](git-github.md)
 
+### Growth Mindset
+The mental ability to continue to learn and grow throught diversity.
+things i personaly do to mantain this mindset are:
+- Challenge my self daily.
++ Set realistic Goal for growth.
+- **ASK FOR HELP** *don't let myself stay stuck!!*
 
 ## About me
 

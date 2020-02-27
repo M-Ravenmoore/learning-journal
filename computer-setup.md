@@ -1,10 +1,10 @@
 # Software Stuff
 
 ## Table of contents
-1. [Home](README.md)
-1. [Day one](markdown.md)
-1. [Computer Setup](computer-setup.md)
-1. [git notes](git-github.md)
+- [Home](README.md)
+- [Markdown](markdown.md)
+- [Computer Setup](computer-setup.md)
+- [git notes](git-github.md)
 
 ## Essencential Terminal notes
 

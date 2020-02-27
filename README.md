@@ -1,37 +1,19 @@
 # learning-journal
-markdown readme
+This is Muninns Learning journal.
 
 ## Table of contents
-1. growth mindset
-1. using git
-1. Markdown cheat sheet
-1. Other stuff
-1. About Me
-
-## Notes
-
-### Growth Mindset
-The mental ability to continue to learn and grow throught diversity.
-things i personaly do to mantain this mindset are:
-- Challenge my self daily.
-+ Set realistic Goal for growth.
-- **ASK FOR HELP** *don't let myself stay stuck!!*
-
-### Git Notes
-create new repl for each project:
-*Reminder repositorys are justs a fancy file system*
-
-first page must be readme **for each** repl
-
-check out pages functionality soon.
+1. [Home](README.md)
+1. [Day one](Markdown.md)
+1. [Computer Setup](computer-setup.md)
+1. [git notes](git-github.md)
 
 
-### Markdown cheat sheet
+## About me
 
-Markdown code | What it does
---------------|-------------
-`<#>` | this makes headers
+### why am i learning code?
+I am learning code in order to take a step in to a new career. I am 29 years old with a wonderfull almost 2 year old son, and a wedding this fall.
+
+My goals currently are to gain proficency in Front end.
 
 
-#### About me
 my Git link: https://github.com/M-Ravenmoore

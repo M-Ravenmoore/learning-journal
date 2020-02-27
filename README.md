@@ -3,7 +3,7 @@ This is Muninns Learning journal.
 
 ## Table of contents
 1. [Home](README.md)
-1. [Day one](Markdown.md)
+1. [Day one](markdown.md)
 1. [Computer Setup](computer-setup.md)
 1. [git notes](git-github.md)
 

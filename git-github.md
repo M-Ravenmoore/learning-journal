@@ -24,7 +24,7 @@
 
 
 
-### useful commands for git in conole
+### useful commands for git in console
 - `git config  -list` provides a list of current config settings
 
 
@@ -40,5 +40,5 @@
 ## repos
  - one project = one repo
  - larger projects might have more for different parts
- - thes can be either on github or local (clone)
+ - these can be either on github or local (clone)
 

@@ -14,6 +14,9 @@ things i personaly do to mantain this mindset are:
 + Set realistic Goal for growth.
 - **ASK FOR HELP** *don't let myself stay stuck!!*
 
+to make more notes as i have brain power:
+[competencies link](https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competencies)
+
 ## About me
 
 ### why am i learning code?

@@ -21,6 +21,7 @@
 - always use commit messages for notes
 - HEAD = you are here
 - each snapshot should have a commit message as a label
+- ADD COMMIT PUSH !!! 
 
 
 

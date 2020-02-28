@@ -1,6 +1,7 @@
 # learning-journal
 This is Muninns Learning journal.
 
+
 ## Table of contents
 - [Home](README.md)
 - [Markdown](markdown.md)
@@ -16,6 +17,8 @@ things i personaly do to mantain this mindset are:
 
 to make more notes as i have brain power:
 [competencies link](https://codefellows.github.io/common_curriculum/career_coaching/Professional_Competencies)
+
+
 
 ## About me
 

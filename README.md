@@ -7,6 +7,8 @@ This is Muninns Learning journal.
 - [Markdown](markdown.md)
 - [Computer Setup](computer-setup.md)
 - [git notes](git-github.md)
+- [html notes](html-note.md)
+
 
 ### Growth Mindset
 The mental ability to continue to learn and grow throught diversity.

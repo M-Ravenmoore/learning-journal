@@ -1,11 +1,5 @@
 # git - github notes
 
-## Table of contents
-- [Home](README.md)
-- [Markdown](markdown.md)
-- [Computer Setup](computer-setup.md)
-- [git notes](git-github.md)
-
 ## git notes
 
 ### general git notes

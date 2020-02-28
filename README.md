@@ -7,7 +7,7 @@ This is Muninns Learning journal.
 - [Markdown](markdown.md)
 - [Computer Setup](computer-setup.md)
 - [git notes](git-github.md)
-- [html notes](html-note.md)
+- [html notes](html-notes.md)
 
 
 ### Growth Mindset

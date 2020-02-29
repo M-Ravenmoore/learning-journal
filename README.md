@@ -8,6 +8,8 @@ This is Muninns Learning journal.
 - [Computer Setup](computer-setup.md)
 - [git notes](git-github.md)
 - [html notes](html-notes.md)
+- [Css notes](Css-notes.md)
+
 
 
 ### Growth Mindset

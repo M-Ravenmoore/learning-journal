@@ -20,7 +20,15 @@
 
 
 ### useful commands for git in console
-- `git config  -list` provides a list of current config settings
+Console code | What it does
+--------------|-------------
+- `git config  -list` | provides a list of current config settings
+- `git status` | provides file status for curent git files
+- `git add` | adds files to the commit list
+- `git clone (link)` | brings down a clone of a git repo
+- `git commit` | creates a snapshot of the selected files
+- `git push origin master` | pushes changes to git
+
 
 
 ## git hub

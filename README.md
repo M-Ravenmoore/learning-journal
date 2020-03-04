@@ -6,9 +6,13 @@ This is Muninns Learning journal.
 - [Home](README.md)
 - [Markdown](markdown.md)
 - [Computer Setup](computer-setup.md)
+- [viedo notes](computers-notes.md)
 - [git notes](git-github.md)
 - [html notes](html-notes.md)
 - [Css notes](Css-notes.md)
+- [javascript notes](js-note.md)
+- [function notes](function-note.md)
+- [loops notes](loop-note.md)
 
 
 

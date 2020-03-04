@@ -38,6 +38,11 @@ cammel notaion!!
 
 partentisis must be there to call a funciton
 
+arguments are whats used!!
+
+logic in side codeblock
+### this is `{thing you want to do}`
+
 
 function favoritColor() {
     console.log('the favorite color is')

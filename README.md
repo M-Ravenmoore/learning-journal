@@ -12,7 +12,8 @@ This is Muninns Learning journal.
 - [Css notes](Css-notes.md)
 - [javascript notes](js-notes.md)
 - [function notes](function-notes.md)
-- [loops notes](loop-notes.md)
+- [loop notes](loop-notes.md)
+
 
 
 

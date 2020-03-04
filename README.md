@@ -10,9 +10,9 @@ This is Muninns Learning journal.
 - [git notes](git-github.md)
 - [html notes](html-notes.md)
 - [Css notes](Css-notes.md)
-- [javascript notes](js-note.md)
-- [function notes](function-note.md)
-- [loops notes](loop-note.md)
+- [javascript notes](js-notes.md)
+- [function notes](function-notes.md)
+- [loops notes](loop-notes.md)
 
 
 

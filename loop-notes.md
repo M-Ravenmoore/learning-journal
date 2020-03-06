@@ -4,11 +4,11 @@
 - comparisons are usefull
 
 ### logical opperators
-- logical and &&
+- logical and `&&`
 - - used for testing more than one condition
-- logical or ||
+- logical or `||`
 - - used of testing at least one condition
-- logical not !
+- logical not `!`
 - - inverts single boolean
 
 ### loops
